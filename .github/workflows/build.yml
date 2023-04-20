@@ -19,7 +19,7 @@ on:
       - '**.md'
 
 env:
-  DOCKERHUB_SLUG: librenms/librenms
+  DOCKERHUB_SLUG: midokura/librenms
 
 jobs:
   build:
